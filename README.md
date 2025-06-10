@@ -1,0 +1,1 @@
+# CLIP-model-to-diagnose-classify-any-of-chest-X-rays.
